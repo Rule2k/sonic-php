@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(243, 243, 243);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+tr img {
+  height: 100px;
+  
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td {
+  background-color: white;
+  border: 1pt solid black;
+  padding: 1em;
+}
+
+th {
+  border: 1pt solid black;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+nav, footer {
+  text-align: center;
+  margin: 1em;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin: 1em;
+}
+
+li a {
+  text-decoration: none;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+}

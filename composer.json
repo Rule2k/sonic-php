@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/var-dumper": "^3.4",
+        "altorouter/altorouter": "^1.2"
+    }
+}
